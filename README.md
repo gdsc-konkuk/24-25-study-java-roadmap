@@ -13,7 +13,7 @@
 
 ## Level1: Spring Framework
 ### Spring MVC
-- [Part1. 스프링 MVC 학습 레포]()
+- [Part1. 스프링 MVC 학습 레포](https://github.com/gdsc-konkuk/24-25-study-spring-learning-with-test)
 - [Part2. 스프링 MVC 구현 레포](https://github.com/gdsc-konkuk/24-25-study-java-mvc)
 
 <br/>
